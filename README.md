@@ -25,14 +25,7 @@ Screenshot:
 
 
 ## Usage instructions  
-When installed, the will create a page in the permalink: `Your-Wordpress-Host/data-browser/`  
-In this page, users will be listed in the 100% full size page.  
-When clicked one user, the page will be parted to 33.3% and 66.6% frames.  
-For the 33.3% frame is originally all users listing.  
-For the 66.% frame is the details listing of user who is clicked by a visitor.  
 
-The demo is presented to the URL:  
-`http://www.my-freiburg.com/_tWordpress/data-browser`  
 
 ## Changelog  
 
