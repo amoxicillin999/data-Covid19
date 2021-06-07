@@ -17,10 +17,11 @@ Data source of Covid-19:
 * CSS
 * Bootstrap
 
+## Demo  
+Screenshot:  
+![alt text](https://github.com/amoxicillin999/data-Covid19/blob/main/screenshot.png?raw=true)
+
 ## Installation  
-
-
-## Uninstallation  
 
 
 ## Usage instructions  
